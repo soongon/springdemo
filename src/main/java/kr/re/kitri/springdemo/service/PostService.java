@@ -9,7 +9,7 @@ public class PostService {
     public String getAllPosts() {
         // 글이 저장된 데이터베이스에스 글을 가져온다.
         // 가져온 글을 자바 객체에 담아서 반환한다.
-        return "전체 글....";
+        return "전체 글.... with DI";
     }
 
     // 상세 글보기
