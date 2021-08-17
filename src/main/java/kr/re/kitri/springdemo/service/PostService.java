@@ -12,5 +12,8 @@ public class PostService {
         return "전체 글.... with DI";
     }
 
-    // 상세 글보기
+    // 3번 글 상세 보기
+    public String getPostNumber3() {
+        return "3번 글 입니다.";
+    }
 }
